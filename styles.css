@@ -1,0 +1,19 @@
+
+* {
+  background-color: gray;
+
+}
+
+@media (max-width: 28.50em) {
+  .nav {
+    justify-content: left;
+  }
+  .nav-list {
+    margin: 0 1rem;
+
+  }
+}
+nav {
+  position: relative;
+  top: -1;  
+}
